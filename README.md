@@ -24,7 +24,7 @@ A dynamic and responsive news aggregator app built with HTML, Bootstrap, and Jav
 1. **Clone the Repository**  
    Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/news-application.git
+   git clone https://github.com/owaisraza01/News-filtering-application
    ```
 
 2. **Obtain an API Key**  
