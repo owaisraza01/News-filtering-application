@@ -1,4 +1,4 @@
-**News Application**  
+### 📰 News Application
 A dynamic and responsive news aggregator app built with HTML, Bootstrap, and JavaScript. This application fetches the latest news articles from the [NewsAPI](https://newsapi.org/) and displays them in a visually appealing card layout. Users can search for news on any topic, and the app will show the most recent and relevant articles.
 
 ---
@@ -19,6 +19,8 @@ A dynamic and responsive news aggregator app built with HTML, Bootstrap, and Jav
 - **NewsAPI**: Source of news articles.
 
 ---
+### 🖼️ Preview
+**https://preeminent-tarsier-ccb16f.netlify.app/**
 
 #### **How to Use**
 1. **Clone the Repository**  
